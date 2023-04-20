@@ -103,23 +103,23 @@ Rod, Alex, ... !!!LIST YOURSELF HERE IF EDITING!!! Davvveeee
 #### Protagonist transformation
 
 - Transformation
--- Blob mother -> blob -> tadpole -> axolotl / cephalopod
+    - Blob mother -> blob -> tadpole -> axolotl / cephalopod
 
 - Travel/abilities
--- Basic movement
--- Underwater movement
--- Breathing underwater/gills
--- Walking/running - move around
--- Jumping
--- Gliding? Feathers?
--- Climbing
--- Suction cups
--- Flight? 
--- Swim in water via buoyancy? Beyonce 👌
+    - Basic movement
+    - Underwater movement
+    - Breathing underwater/gills
+    - Walking/running - move around
+    - Jumping
+    - Gliding? Feathers?
+    - Climbing
+    - Suction cups
+    - Flight? 
+    - Swim in water via buoyancy? Beyonce 👌
 
 - Manipulation
--- Tongue/manipulation in range? (around the protagonist)
--- Claws?
--- Poison?
--- Tail whip?
--- "Steal" abilities to learn them, and gradually internalise them?
+    - Tongue/manipulation in range? (around the protagonist)
+    - Claws?
+    - Poison?
+    - Tail whip?
+    - "Steal" abilities to learn them, and gradually internalise them?

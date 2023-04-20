@@ -2,7 +2,7 @@
 So we wanted to try and make a platformer..
 
 ## Rules
-1. Work in branch 'test'
+1. Work in branch 'dev'
 2. Merge with 'main' only when a stage of the project is complete
 3. Merge without removing source branch
 4. Pull before pushing

@@ -33,3 +33,20 @@ II  Understand it's origins
 III  Make decisions about how to end it all 
 
 
+## 03/05/2023 level 1 Brainstorm
+
+Dave christened Blobby as 'Ed' short for 'Eddy' which is short for 'Edwards'. #We_Support_WorkPlace_Bullying.
+
+Ed can scavenge, hunt or befriend.
+1. Scavenger: slower level up, lowest risk for food obtaining, least reward, makes Ed more like MG, increases stealth and allows Ed to learn by Observing. But because scavenging is creepy AF friendly creatures are less likely to interact.
+2. Hunter: Faster level up, friendly creatures less likely to engage, will attract more hostile creatures to it, learn by doing, more complex features but fewer 'slots'.
+3. Befriender: more likely to encounter friendly creatures, Ed can learn by training with friendlys gains weaker but more 'slots' for features.
+
+For leveling up we can have the player decide which features they want to gain as they evolve
+
+## Swampy Zone: Level 1/5? (Tutorial level)
+This level unlocks a tail from the remains from scavenging, tail slap technique from friends, some sort of bone structure from fighting final boss for hunting.
+
+Level surrounded by shallow waters, 
+
+
